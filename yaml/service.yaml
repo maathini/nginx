@@ -5,7 +5,7 @@ metadata:
     app: nginx
   name: nginx-service
   namespace: nginx-test
-spac:
+spec:
   ports:
   - port: 80
     protocol: TCP
